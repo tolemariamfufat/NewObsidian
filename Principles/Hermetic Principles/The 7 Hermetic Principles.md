@@ -1,0 +1,7 @@
+- **The principle of mentalism** The All is Mind; the Universe is Mental.
+- **The principle of correspondence -** [As above, so below](https://en.wikipedia.org/wiki/As_above,_so_below); as below, so above.” [...] This principle embodies the truth that there is always a [correspondence](https://en.wikipedia.org/wiki/Correspondence_(theology)) between the laws and phenomena of the various planes of being and life.
+- **The principle of vibration -** Nothing rests; everything moves; everything vibrates.
+-  **The principle of polarity** Everything is dual; everything has poles; everything has its pair of opposites; like and unlike are the same; opposites are identical in nature, but different in degree; extremes meet; all truths are but half-truths; all paradoxes may be reconciled.
+-  **The principle of rhythm** Everything flows, out and in; everything has its tides; all things rise and fall; the pendulum-swing manifests in everything; the measure of the swing to the right is the measure of the swing to the left; rhythm compensates.
+- **The principle of cause and effect** Every cause has its effect; every effect has its cause; everything happens according to law; chance is but a name for law not recognized; there are many planes of causation, but nothing escapes the law.
+- **The principle of gender** Gender is in everything; everything has its masculine and feminine principles; gender manifests on all planes.

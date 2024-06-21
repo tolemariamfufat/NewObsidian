@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "20dbf8e06765dc3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "035b286d9e536457",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f2a5ebc4ca03b34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Galmee Jechoota Qorannoo -2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e354ab33f45e090",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6beaa10f914e1ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aab66f4071c9ae3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8bd7c0b4203f16c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6307dd0891bff13",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ab997076adc6ac9",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 423.5
+  },
+  "right": {
+    "id": "bb22bea3ae38096c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3b71d2fff79d654",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2fb802e028c27d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project/Galmee Jechoota Qorannoo -2.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f27115ea1588955",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project/Galmee Jechoota Qorannoo -2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbabaf885e2a97f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d74d34c037980ad2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project/Galmee Jechoota Qorannoo -2.md"
+              }
+            }
+          },
+          {
+            "id": "097eb5c44e85fe92",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ae239f0284937f8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "92ca3506111b47a8",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "16e5df00e1955606",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "c617e5c49769a2d8",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "bba3055bee8f6bea",
+            "type": "leaf",
+            "state": {
+              "type": "mxmind-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-projects:Open projects": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "4f2a5ebc4ca03b34",
+  "lastOpenFiles": [
+    "Project/Galmee Jechoota Qorannoo - 1.md",
+    "Project/Galmee Jechootaa -4.md",
+    "Project/Galmee Jechootaa Qorannoo -3.md",
+    "Project/Galmee Jechoota Qorannoo -2.md",
+    "daily/2024-06-21.md",
+    "daily/2024-06-09.md",
+    "daily/2024-06-07.md",
+    "daily/2024-06-05.md",
+    "Resources/Books/Power Freedom and Grace - Deepak Chopra.md",
+    "Resources/Books/Summary of Rupert Spira's Being Aware of Being Aware - Everest Media.md",
+    "Resources/Books/The 7 Habits of Highly Effective People.md",
+    "fleeting-notes/What is the secret of Electromagnetic Force.md",
+    "Home.md",
+    "daily/2024-06-04.md",
+    "daily/2024-06-03.md",
+    "daily/2024-05-30.md",
+    "daily/2024-05-29.md",
+    "daily/2024-05-28.md",
+    "Fluency/Simple but fast English pronunciation practice.md",
+    "Fluency/English Fluency/Positive and Uplifting High-level Speaking.md",
+    "daily/2024-05-25.md",
+    "daily/2024-05-27.md",
+    "Resources/Books/Getting Things Done - David Allen.md",
+    "Untitled mindmap 1.md",
+    "Untitled mindmap.md",
+    "fleeting-notes/Awareness-Knowing.md",
+    "Untitled.canvas",
+    "mind map/map/ap/p",
+    "mind map/map/ap/a",
+    "mind map/map/ap",
+    "mind map/map/ma",
+    "mind map/map",
+    "mind map/mind",
+    "mind map",
+    "Fluency/English Fluency",
+    "Fluency",
+    "Principles/Hermetic Principles",
+    "banners/20230813-PerseidsOregon_ROW1614140268_UHD.jpg"
+  ]
+}
