@@ -1,96 +1,11 @@
 {
   "scanned": true,
   "reminders": {
-    "daily/Tasks.md": [
+    "Tasks/Tasks1.md": [
       {
         "title": "**DSTV PAY",
-        "time": "2024-06-22 00:00",
+        "time": "2024-08-25 00:00",
         "rowNumber": 0
-      },
-      {
-        "title": "**IDIR PAY",
-        "time": "2024-06-28 00:00",
-        "rowNumber": 2
-      },
-      {
-        "title": "**IDIR PAY",
-        "time": "2024-06-28 00:00",
-        "rowNumber": 3
-      },
-      {
-        "title": "**IDIR PAY",
-        "time": "2024-06-28 00:00",
-        "rowNumber": 5
-      },
-      {
-        "title": "**IDIR PAY",
-        "time": "2024-06-28 00:00",
-        "rowNumber": 8
-      },
-      {
-        "title": "**IDIR PAY",
-        "time": "2024-06-28 00:00",
-        "rowNumber": 12
-      },
-      {
-        "title": "**Maid Salary",
-        "time": "2024-06-22 00:00",
-        "rowNumber": 18
-      },
-      {
-        "title": "**School Pay",
-        "time": "2024-06-24 00:00",
-        "rowNumber": 20
-      },
-      {
-        "title": "**School Pay",
-        "time": "2024-06-24 00:00",
-        "rowNumber": 21
-      },
-      {
-        "title": "**School Pay",
-        "time": "2024-06-24 00:00",
-        "rowNumber": 23
-      },
-      {
-        "title": "**School Pay",
-        "time": "2024-06-24 00:00",
-        "rowNumber": 25
-      },
-      {
-        "title": "**School Pay",
-        "time": "2024-06-24 00:00",
-        "rowNumber": 27
-      },
-      {
-        "title": "**School Pay",
-        "time": "2024-06-24 00:00",
-        "rowNumber": 29
-      },
-      {
-        "title": "**School Pay",
-        "time": "2024-06-24 00:00",
-        "rowNumber": 32
-      },
-      {
-        "title": "**School Pay",
-        "time": "2024-06-24 00:00",
-        "rowNumber": 33
-      },
-      {
-        "title": "**School Pay",
-        "time": "2024-06-24 00:00",
-        "rowNumber": 35
-      },
-      {
-        "title": "**School Pay",
-        "time": "2024-06-24 00:00",
-        "rowNumber": 37
-      },
-      {
-        "title": "**Estifo's Taxi",
-        "time": "2024-06-28 00:00",
-        "rowNumber": 39
       }
     ]
   },
